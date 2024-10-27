@@ -48,7 +48,7 @@ This project relies on the following Python libraries and packages:
 
 ### Table Structure by Category
 
-![verbs](https://github.com/user-attachments/assets/0bb1ef88-6660-4812-a53e-349e44c7588f)
+![verbs](https://github.com/user-attachments/assets/0bb1ef88-6660-4812-a53e-349e44c7588f | width=400)
 
 - **Verbs Table**  
   - Columns: 
@@ -59,7 +59,7 @@ This project relies on the following Python libraries and packages:
     - Tags (e.g., `PPII mit sein`, `Irregular`, `Reflexive`)
     - Examples
 
-![nouns](https://github.com/user-attachments/assets/c3f6ad78-45c2-4d93-8228-b90ec121dd24)
+![nouns](https://github.com/user-attachments/assets/c3f6ad78-45c2-4d93-8228-b90ec121dd24 | width=400)
 
 - **Nouns Table**  
   - Columns:
@@ -69,7 +69,7 @@ This project relies on the following Python libraries and packages:
     - Meaning
     - Examples
 
-![adjectives](https://github.com/user-attachments/assets/43f41190-aca6-409f-9b5c-db8de8fe52e9)
+![adjectives](https://github.com/user-attachments/assets/43f41190-aca6-409f-9b5c-db8de8fe52e9 | width=400)
 
 - **Adjectives Table**  
   - Columns:
@@ -79,7 +79,7 @@ This project relies on the following Python libraries and packages:
     - Superlative
     - Examples
 
-![adverbs](https://github.com/user-attachments/assets/4a56e482-8db8-4245-a78b-9c61c0b408b5)
+![adverbs](https://github.com/user-attachments/assets/4a56e482-8db8-4245-a78b-9c61c0b408b5 | width=400)
 
 - **Adverbs Table**  
   - Columns:
