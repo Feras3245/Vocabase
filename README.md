@@ -86,3 +86,26 @@ This project relies on the following Python libraries and packages:
     - Adverb
     - Meaning
     - Examples
+
+## Usage
+
+1. Open a terminal and navigate to the root folder of the project (`Python`).
+2. Start the program by entering:
+   ```
+   python vocabase.py
+   ```
+3. Specify the language level (`niveau`) and the week to which you’d like to add new entries.  
+   - You can use the `-n` option for `niveau` and the `-w` option for the week, e.g., 
+     ```
+     python vocabase.py -n b1.1 -w 4
+     ```
+   - If these flags are not provided, the program will prompt you for `niveau` and `week` upon startup.
+
+4. After entering the required details, you’ll be prompted to enter a search query.
+5. If results are found on Linguee for the queried German term, they will be displayed in a formatted table.
+6. Use the provided instructions displayed after the search results to perform operations like `insert`, `drop`, or `edit` on the fetched data tables or press <kbd>Space</kbd> to cancel and enter another query.
+![control instructions](https://github.com/user-attachments/assets/f070df90-4c03-499d-b095-92b3245bd7dc)
+
+
+## Demo
+![demo](https://github.com/user-attachments/assets/724f82c5-d7d8-4cb2-891c-50002dc8ee04)
