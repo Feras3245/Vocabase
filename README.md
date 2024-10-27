@@ -34,15 +34,22 @@ This project relies on the following Python libraries and packages:
 ## Database Structure
 
 - Vocabulary collected for each language proficiency level, or "Niveau," is organized on separate Notion pages.
+
   ![niveaus](https://github.com/user-attachments/assets/fd6fb62f-c950-433b-a89a-6854536d8240)
+
 - Each level contains multiple weekly pages (e.g., `B1.1 Week 1` or `A2.1 Week 3`) where vocabulary learned that week is stored.
+
   ![weeks](https://github.com/user-attachments/assets/58acab94-5d80-4c3f-8ef0-cdf0382e4bb1)
+
 - Within each weekly page, vocabulary is further categorized into distinct tables for verbs, nouns, adverbs, and adjectives to align relevant sentence structures with dedicated data columns.
+
   ![pos](https://github.com/user-attachments/assets/f784d6f1-eb68-4a74-8311-40870433b96b)
 
 
 ### Table Structure by Category
+
 ![verbs](https://github.com/user-attachments/assets/0bb1ef88-6660-4812-a53e-349e44c7588f)
+
 - **Verbs Table**  
   - Columns: 
     - Verb
@@ -53,6 +60,7 @@ This project relies on the following Python libraries and packages:
     - Examples
 
 ![nouns](https://github.com/user-attachments/assets/c3f6ad78-45c2-4d93-8228-b90ec121dd24)
+
 - **Nouns Table**  
   - Columns:
     - Article (`Der`, `Die`, `Das`)
@@ -62,6 +70,7 @@ This project relies on the following Python libraries and packages:
     - Examples
 
 ![adjectives](https://github.com/user-attachments/assets/43f41190-aca6-409f-9b5c-db8de8fe52e9)
+
 - **Adjectives Table**  
   - Columns:
     - Adjective
@@ -71,6 +80,7 @@ This project relies on the following Python libraries and packages:
     - Examples
 
 ![adverbs](https://github.com/user-attachments/assets/4a56e482-8db8-4245-a78b-9c61c0b408b5)
+
 - **Adverbs Table**  
   - Columns:
     - Adverb
